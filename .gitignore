@@ -1,25 +1,3 @@
-# Xcode
-*.pbxuser
-*.perspective
-*.perspectivev3
-*.mode1v3
-*.mode2v3
-*.xcuserdatad
-*.trace
-*project.xcworkspace/
-*~.nib
-
-# AppCode
-.idea
-
-# OSX
+AquaticPrime Developer.app
 .DS_Store
-
-# Git
-*.orig
-*.BACKUP.*
-*.REMOTE.*
-*.LOCAL.*
-*.BASE.*
-*.bak
 
